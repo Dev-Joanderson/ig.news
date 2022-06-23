@@ -1,6 +1,8 @@
-import { AppProps } from 'next/app'
-import { Header } from '../components/Header'
-import '../styles/global.scss'
+import { AppProps } from 'next/app';
+import { Header } from '../components/Header';
+import { SubscribeButton } from '../components/SubscribeButton';
+
+import '../styles/global.scss';
 
 function MyApp({ Component, pageProps }: AppProps) {
   return (
@@ -8,7 +10,7 @@ function MyApp({ Component, pageProps }: AppProps) {
       <Header />
       <Component {...pageProps} />
     </>
-  )
+  );
 }
 
-export default MyApp
+export default MyApp;
