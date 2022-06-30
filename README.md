@@ -1,6 +1,6 @@
-<p align="center">
-   <img src="https://raw.githubusercontent.com/tavareshenrique/ignite-reactjs/84a216ea852ad8929e8441923658957662a14169/03-ignews/public/images/logo.svg" alt="IG News" width="280"/>
-</p>
+ <h1 align="center">
+  ig.news
+</h1>
 
 </p>
 
@@ -10,26 +10,15 @@
 > [Stripe](https://stripe.com/) para o controle de pagamento e salvando os dados
 > dos inscritos no FaunaDB.
 
-<div align="center">
-  <sub>O <strong>ig.news</strong> foi desenvolvido com ❤︎ pelo
-    <a href="https://github.com/tavareshenrique">Henrique Tavares</a>
-  </sub>
-</div>
+<p align="center">
+  <a href="#gear-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#computer-how-to-run">How to run</a>
+</p>
 
-# :pushpin: Conteúdo
+<br>
 
-- [Tecnologias](#computer-tecnologias)
-
-### Fotos
-
-<div>
-   <img src=".github/image.png" width="500px" />
-   <img src="https://raw.githubusercontent.com/tavareshenrique/ignite-reactjs/main/03-ignews/src/assets/previews/preview2.png" width="500px" />
-   <img src="https://raw.githubusercontent.com/tavareshenrique/ignite-reactjs/main/03-ignews/src/assets/previews/preview3.png" width="500px" />
-   <img src="https://raw.githubusercontent.com/tavareshenrique/ignite-reactjs/main/03-ignews/src/assets/previews/preview4.png" width="500px" />
-</div>
-
-# :computer: Tecnologias
+<img src=".github/image.png" width="100%"> />
+## :gear: Technologies
 
 Este projeto foi feito utilizando as seguintes tecnologias:
 
@@ -44,7 +33,4 @@ Este projeto foi feito utilizando as seguintes tecnologias:
 - [ESLint](https://eslint.org/)
 - [Prettier](https://prettier.io/)
 
-# :atom_symbol: Desafios
 
-[Desafio 5](https://github.com/tavareshenrique/ignite-reactjs-desafio-5):
-desafio criando um Blog utilizando NextJS e Prismic.
