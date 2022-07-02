@@ -15,7 +15,7 @@
   <a href="#computer-how-to-run">How to run</a>
 </p>
 
-<br>
+//<br>
 
 <img src=".github/image.png" width="100%"> />
 ## :gear: Technologies
